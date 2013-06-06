@@ -1,5 +1,7 @@
 package com.lib4.sendmail;
-
+/**
+ * @Author AnasAbubacker
+ */
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
